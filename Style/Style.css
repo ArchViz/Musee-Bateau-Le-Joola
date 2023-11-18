@@ -283,7 +283,7 @@ html {
             transform: translate(0%, 0%);
     -webkit-filter: invert(0);
             filter: invert(0);
-    bottom: 1em;
+    bottom: -0.2em;
     right: none;
     left: 1em;
   }
