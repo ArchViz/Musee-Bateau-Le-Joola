@@ -168,7 +168,6 @@ html {
 
 .a-enter-vr {
   background: rgba(55, 55, 60, 0);
-  display: none;
 }
 
 .a-enter-vr .a-enter-vr-button {
@@ -179,7 +178,6 @@ html {
   background-position: center;
   -webkit-transform: scale(1);
           transform: scale(1);
-  display: none;
 }
 
 .a-enter-vr .a-enter-vr-button:hover {
